@@ -1,0 +1,7 @@
+name: MinecraftCLWOChat
+version: '${project.version}'
+main: me.classywolves.minecraftclwochat.MinecraftCLWOChat
+api-version: 1.17
+description: A plugin that relays specified messages to "iNilo's messaging service"
+authors: [johnny boy]
+website: https://clwo.eu/
